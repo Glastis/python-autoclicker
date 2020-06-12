@@ -39,7 +39,7 @@ def on_press(key):
 
 
 def display_controls():
-    print("// AutoClicker by iSayChris, forked by Glatis")
+    print("// AutoClicker by iSayChris, forked by Glastis")
     print("// - Settings: ")
     print("\t delay = " + str(delay) + ' sec' + '\n')
     print("// - Controls:")
